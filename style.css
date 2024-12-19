@@ -1,5 +1,4 @@
 body{
-    text-align: center;
     background-color: black;
     color: white;
 }
@@ -14,4 +13,18 @@ a{
 li{
     font-size: 20px;
     list-style: none;
+}
+
+#Description{
+    width: 800px;
+
+font-size: 30px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+.Steps{
+    color: blue;
 }
